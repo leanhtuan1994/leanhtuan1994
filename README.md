@@ -1,5 +1,4 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 <br />
 
 Hi, I'm [Le Anh Tuan!], a passionate self-taught Mobile Developer 🚀 from Vietnam.
@@ -9,5 +8,12 @@ Hi, I'm [Le Anh Tuan!], a passionate self-taught Mobile Developer 🚀 from Viet
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning React Native & Typescript;
+- 👨🏽‍💻 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning React Native & Typescript
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [@tuananhle](https://www.facebook.com/tuananhle23)
+- 📝 [Resume](https://drive.google.com/file/d/1f54z8rs6FemmvzuUQTJQxCDwl0hO5E8a/view?usp=sharing)
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leanhtuan1994&show_icons=true&theme=gotham" alt="leanhtuan1994" />
