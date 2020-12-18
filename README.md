@@ -8,11 +8,20 @@ Hi, I'm [Le Anh Tuan!], a passionate self-taught Mobile Developer 🚀 from Viet
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning React Native & Typescript
+- 👨🏽‍💻 I’m currently working on something cool :wink:  
+- 🌱 I’m currently learning React Native & Typescript  
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@tuananhle](https://www.facebook.com/tuananhle23)
 - 📝 [Resume](https://drive.google.com/file/d/1f54z8rs6FemmvzuUQTJQxCDwl0hO5E8a/view?usp=sharing)
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 📈 My GitHub Stats
 
