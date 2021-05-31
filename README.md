@@ -9,7 +9,7 @@ Hi, I'm [Tuan Anh Le!](https://github.com/leanhtuan1994), a passionate self-taug
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:  
-- 🌱 I’m currently learning React Native & Typescript  
+- 🌱 I’m currently working React, React Native & Flutter to create awesome web & mobile app  
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@tuananhle](https://www.facebook.com/tuananhle23)
 - 📝 [Resume](https://drive.google.com/file/d/1f54z8rs6FemmvzuUQTJQxCDwl0hO5E8a/view?usp=sharing)
